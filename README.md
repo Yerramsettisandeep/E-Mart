@@ -47,3 +47,5 @@ npm install
 
 3️⃣ Run the development server
 npm run dev
+
+For my referecnce i followed youtube tutorial : https://youtu.be/sfzegcb_HDQ?si=JYoRzuH_JG5NV5cf
